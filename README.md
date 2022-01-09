@@ -1,4 +1,7 @@
 # School Management System JavaFX
+## Project for CS-403: Software Achitecture and Design Patterns
+![](https://github.com/arslansD/Software-Architecture-Final/blob/main/screenshots/logo.png)
+
 Previews
 
 ![](https://github.com/k33ptoo/School-Management-System-JavaFX/blob/master/screenshots/sc1.PNG) 
