@@ -21,7 +21,3 @@ This project uses a number of libraries:
 
 * [FontAwesome](https://bintray.com/jerady/maven/FontAwesomeFX/9.1.2) - Icons
 * [CalendarFX](https://github.com/dlemmermann/CalendarFX) - sophisticated calendar views based on JavaFX.
-
-
-**You can also check out a [Java Swing](https://github.com/k33ptoo/School-Management-System-Inspiration) version if you are interested or Watch the full video [here](https://youtu.be/YuiXnPefmhU).
-**
