@@ -1,8 +1,8 @@
-# School Management System
+# School Management System For Ala-Too International University
 ## Project for CS-403: Software Achitecture and Design Patterns
 ![](https://github.com/arslansD/Software-Architecture-Final/blob/main/screenshots/logo.png)
 
-Previews
+## Previews
 
 ![](https://github.com/arslansD/Software-Architecture-Final/blob/main/screenshots/sc1.PNG) 
 
